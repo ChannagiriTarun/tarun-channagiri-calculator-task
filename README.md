@@ -1,1 +1,1 @@
-Candies task
+Calculator task
